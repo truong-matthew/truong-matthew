@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @truong-matthew
-- 👀 I’m interested in fields of product, data, and business!
-- 🌱 I’m currently learning front-end dev. and customer-experience design
-- 🤝 I’m looking to collaborate on data science projects and product/case competitions
-- 📫 How to reach me: matthew.truong@uwaterloo.ca
+- 👋 Hi reader, I’m @truong-matthew.
+- 👀 I’m passionate about leveraging the power of data to derive powerful insights in fields of product and business!
+- 🌱 I’m currently learning front-end dev. and customer-experience design.
+- 🤝 I’m looking to collaborate on data science projects and product/case competitions.
+- 📫 Feel free to send me an email (matthew.truong@uwaterloo.ca) or drop by my LinkedIn page :) I would love to hear from you! 
 
 <!---
 truong-matthew/truong-matthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
